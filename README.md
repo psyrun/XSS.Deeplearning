@@ -4,7 +4,7 @@
 
 ## Requirements
 
-   ```bash
+*  ```bash
    install conda-mini python 2.7
    pip install tesorflow==1.0
    python2 train.py
@@ -16,7 +16,8 @@
 
 
 ## Tensorboard
-* To visualize training progress, model graphs, and internal state histograms:
+* To navigate tensorboartd:
+  
    ```bash
    $ tensorboard --logdir=./logs/
    ```
