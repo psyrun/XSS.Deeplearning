@@ -1,4 +1,4 @@
-# Cross site scripting (XSS) using deep learning.
+# Cross site scripting (XSS attack) using deep learning.
 
 * This model will generate noble automatic xss payloads after learning from previous xss payloads. This model is 93.3% accurate. Sometime user have to make effort to complete the incomplete payload. 
 
